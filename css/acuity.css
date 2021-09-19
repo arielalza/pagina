@@ -144,8 +144,8 @@ a.acuity-embed-button:link {
 }
 
 .acuity-embed-button:hover {
-	-webkit-filter: brightness(112%);
-	filter: brightness(112%)
+	-webkit-filter: brightness(110%);
+	filter: brightness(110%)
 }
 
 .acuity-embed-button {

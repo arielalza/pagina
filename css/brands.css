@@ -90,45 +90,40 @@
 /* Instagram */
 .button.button-instagram {
   color: #FFFFFF;
-  background-color: #7b16ff }
+  background-color: #b718df }
 .button.button-instagram:hover,
 .button.button-instagram:hover:before {
-  content: '¡Get to know me better! Here you will find me in casual and funny images';
   white-space: initial; }
 
 /* GitHub */
 .button.button-github {
   color: #FFFFFF;
-  background-color: #ff5500 }
+  background-color: #990033 }
 .button.button-github:hover,
 .button.button-github:hover:before {
-    content: 'Here you will find my personal GitHub where I save all my projects';
     white-space: initial; }
 
 /* Mail */
 .button.button-mail {
   color: #000000;
-  background-color: #E8F3EC }
+  background-color: #e8f3ecef }
 .button.button-mail:hover,
 .button.button-mail:hover:before {
-    content: 'By clicking here, you can send me an email!';
     white-space: initial; }
 
 /* DockerHub */
 .button.button-dockerhub {
   color: #FFFFFF;
-  background-color: #10c694 }
+  background-color: #10c695c7 }
 .button.button-dockerhub:hover,
 .button.button-dockerhub:hover:before {
-    content: 'You can find all my Docker images here!';
     white-space: initial; }
 
 /* Linkedin */
 .button.button-linkedin {
   color: #FFFFFF;
-  background-color: #220af5 }
+  background-color: #210dd8 }
 .button.button-linkedin:hover,
 .button.button-linkedin:hover:before {
-    content: 'Here you can find my LinkedIn profile';
     white-space: initial; }
 
